@@ -1,0 +1,41 @@
+# Archivos de Gradle
+.gradle/
+build/
+
+# Archivos locales
+local.properties
+
+# Archivos de Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Archivos de compilación
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Archivos de logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Capturas
+/captures/
+
+# NDK / C++
+.externalNativeBuild/
+.cxx/
+
+# Keystore (MUY IMPORTANTE)
+*.jks
+*.keystore
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Kotlin
+*.kotlin_module
